@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Fix LEDs init error'
+      hash: 4232928ad894fed548290054b09e25e60fa9eda3
+      body: ''
+      footer:
+        Signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+        signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+      author: Lorenzo Alberto Maria Ambrosi
+      nested: []
+  version: 1.6.1
+  date: 2021-09-30T11:08:48.584Z
+- commits:
     - subject: Add support for basic auth when downloading images from URL.
       hash: b2d0c1c9ddbbfe87d5a905d420d615821610e825
       body: >
